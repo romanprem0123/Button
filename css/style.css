@@ -1,0 +1,115 @@
+#top{
+	width:100%
+	
+}
+.btn-list{
+	width:70%;
+	margin:0 auto;
+	text-align:center;
+	padding: 15px 0;
+    margin: 300px 0 0 200px;
+}
+.btn1 {
+    border: none;
+    background-color: blue;
+	color:white;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+.btn1:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.5s ease;
+}
+.btn2{
+	border:none;
+	background-color:#656565;
+	color:white;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn2:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn3{
+	border:none;
+	background-color:rgb(0 143 77);
+	color:white;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn3:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn4{
+	border:none;
+	background-color:red;
+	color:white;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn4:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn5{
+	border:none;
+	background-color:yellow;
+	color:black;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn5:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn6{
+	border:none;
+	background-color:#00adf4;
+	color:black;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn6:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn7{
+	border:none;
+	background-color:rgb(128 128 128 / 27%);
+	color:black;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn7:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn8{
+	border:none;
+	background-color:black;
+	color:white;
+	padding:6px 12px;
+	border-radius:4px;
+}
+.btn8:hover{
+    background-color: rgb(41 0 255 / 77%);
+    transition: all 0.8s ease;
+}
+
+.btn9{
+	border:none;
+	background-color:transparent;
+	color:blue;
+	padding:6px 12px;
+	border-radius:4px;
+	text-decoration:underline blue;
+	cursor:pointer;
+}
