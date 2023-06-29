@@ -11,25 +11,29 @@
 }
 .btn1 {
     border: none;
-    background-color: blue;
+    background-color:rgb(12,110,254);
 	color:white;
     padding: 6px 12px;
     border-radius: 4px;
+	transition: all 0.5s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn1:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.5s ease;
+    background-color: rgb(73 143 245);
 }
 .btn2{
 	border:none;
-	background-color:#656565;
+	background-color:rgb(108,116,126);
 	color:white;
 	padding:6px 12px;
 	border-radius:4px;
+    transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn2:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(143 146 151);
 }
 
 .btn3{
@@ -38,70 +42,83 @@
 	color:white;
 	padding:6px 12px;
 	border-radius:4px;
+	transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn3:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(79 155 119);
 }
 
 .btn4{
 	border:none;
-	background-color:red;
+	background-color:rgb(221,52,74);
 	color:white;
 	padding:6px 12px;
 	border-radius:4px;
+	transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn4:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(239 103 120);
 }
 
 .btn5{
 	border:none;
-	background-color:yellow;
+	background-color:rgb(255,191,2);
 	color:black;
 	padding:6px 12px;
 	border-radius:4px;
+	transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn5:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(255 216 101);
 }
 
 .btn6{
 	border:none;
-	background-color:#00adf4;
+	background-color:rgb(14,203,240);
 	color:black;
 	padding:6px 12px;
 	border-radius:4px;
+	transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn6:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(84 227 255);
+    
 }
 
 .btn7{
 	border:none;
-	background-color:rgb(128 128 128 / 27%);
+	background-color:rgb(248,249,251);
 	color:black;
 	padding:6px 12px;
 	border-radius:4px;
+	transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn7:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(221 217 217);
 }
 
 .btn8{
 	border:none;
-	background-color:black;
+	background-color:rgb(35,36,39);
 	color:white;
 	padding:6px 12px;
 	border-radius:4px;
+	transition: all 0.8s ease;
+	text-decoration:none;
+	cursor:default;
 }
 .btn8:hover{
-    background-color: rgb(41 0 255 / 77%);
-    transition: all 0.8s ease;
+    background-color: rgb(87 89 93);
 }
 
 .btn9{
